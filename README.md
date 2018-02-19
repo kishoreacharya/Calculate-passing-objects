@@ -1,1 +1,1 @@
-# Calculate-passing-objects
+# A simple calculation method.
